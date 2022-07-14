@@ -1,0 +1,22 @@
+{
+  "name": "Formulario Geral",
+  "version": "1.0.0",
+  "description": "Formulario de Informacao.",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loja",
+    "virtual",
+    "artigos",
+    "femininos"
+  ],
+  "author": "Armando Mateus",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "lite-server": "^2.6.1"
+  }
+}
